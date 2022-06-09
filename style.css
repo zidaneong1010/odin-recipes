@@ -25,4 +25,17 @@ img
   color: yellow;
 }
 
+.odin
+{
+    margin: 0 0 1em 0;
+    box-sizing: border-box;
+    height: auto;
+    width: 1000px;
+    border: 2px solid black;
+    text-align: center;
+}
 
+div
+{
+    margin: 1em;
+}
