@@ -1,0 +1,28 @@
+img
+{
+    height: 200px;
+    width: 200px;
+}
+
+.links a 
+{
+    border: 2px black solid;
+    height: 150px;
+    width: 150px;
+    box-sizing: border-box;
+    background-color: burlywood;
+    color: black;
+    padding: 1em;
+    margin: 1em auto;
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+}
+
+.links a:hover 
+{
+  background-color: goldenrod;  
+  color: yellow;
+}
+
+
